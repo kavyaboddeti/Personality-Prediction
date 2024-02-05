@@ -12,8 +12,8 @@ MBTI classifies individuals into 16 distinct personality types based on four dic
 
 ### Data Collection
 
-- **Source**: A dataset comprising 50 recent social media posts per user, annotated with MBTI personality types.
-- **Access**: Available for download [here](https://www.kaggle.com/datasets/datasnaek/mbti-type?resource=download).
+- **Source**: A dataset comprising recent social media posts per user, annotated with MBTI personality types.
+- **Access**: Download the dataset from our [Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type?resource=download).
 
 ### Machine Learning Models
 
