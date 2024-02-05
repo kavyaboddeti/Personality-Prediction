@@ -26,4 +26,6 @@ Our toolkit includes a variety of algorithms, each chosen for its strengths in h
 - **SGD Classifier**: Adapts Stochastic Gradient Descent for efficient learning, ideal for large datasets.
 - **Support Vector Machines (SVM)**: Employs kernel tricks to handle high-dimensional space, excellent for text classification.
 
+## License
 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
